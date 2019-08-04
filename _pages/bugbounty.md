@@ -14,6 +14,7 @@ redirect_from:
 * NASA (2 times)
 * Sandisk
 * IGN
+* MAGIX
 * United Nations (5 times)
 * European Union (4 times)
 And others.. 
