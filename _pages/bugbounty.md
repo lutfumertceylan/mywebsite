@@ -12,6 +12,7 @@ redirect_from:
 * HTC
 * Nike
 * NASA (2 times)
+* Siemens
 * Sandisk
 * IGN
 * MAGIX
