@@ -14,6 +14,7 @@ redirect_from:
 * NASA (2 times)
 * Siemens
 * BlackBerry
+* Nokia
 * Sandisk
 * Nvidia
 * IGN
