@@ -13,6 +13,7 @@ redirect_from:
 * Nike
 * NASA (2 times)
 * Siemens
+* Apple
 * BlackBerry
 * Nokia
 * Sandisk
