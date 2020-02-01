@@ -24,6 +24,9 @@ Work experience
 * July 2019 ~ : Bugcrowd [Profile](https://bugcrowd.com/lutfumertceylan)
   - Web Application Security Researcher (Bug Hunter)
 
+* July 2019 ~ : Open Bug Bounty [Profile](https://www.openbugbounty.org/researchers/MertC/)
+  - Web Application Security Researcher (Bug Hunter)
+
 
 Skills
 ======
