@@ -9,16 +9,16 @@ redirect_from:
 {% include base_path %}
 # Bug Bounty (Hall of Fames, Rewards and Appreciations)
 
-* HTC
 * Nike
 * NASA (2 times)
 * Siemens
 * Apple
 * BlackBerry
 * Nokia
+* BMW
+* HTC
 * Sandisk
 * Nvidia
-* IGN
 * MAGIX
 * Myob
 * Inflectra
