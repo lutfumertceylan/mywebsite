@@ -11,17 +11,17 @@ redirect_from:
 
 * Nike
 * NASA (2 times)
-* Siemens
-* Apple
-* BlackBerry
-* Nokia
-* BMW
+* Siemens <a href="">GOOGLE GİDER</a>
+* Apple <a href="">GOOGLE GİDER</a>
+* BlackBerry <a href="">GOOGLE GİDER</a>
+* Nokia <a href="">GOOGLE GİDER</a>
+* BMW <a href="">GOOGLE GİDER</a>
 * HTC
 * Sandisk
 * Nvidia
 * MAGIX
-* Myob
-* Inflectra
-* United Nations (5 times)
-* European Union (4 times)
+* Myob <a href="">GOOGLE GİDER</a>
+* Inflectra <a href="">GOOGLE GİDER</a>
+* United Nations (5 times) <a href="">GOOGLE GİDER</a>
+* European Union (4 times) <a href="">GOOGLE GİDER</a>
 And others.. 
