@@ -11,7 +11,7 @@ redirect_from:
 
 * Nike
 * NASA (2 times)
-* Siemens <a href="">GOOGLE GİDER</a>
+* Siemens <a href="a">GOOGLE GİDER</a>
 * Apple <a href="">GOOGLE GİDER</a>
 * BlackBerry <a href="">GOOGLE GİDER</a>
 * Nokia <a href="">GOOGLE GİDER</a>
