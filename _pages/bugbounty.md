@@ -24,5 +24,4 @@ redirect_from:
 * Myob <a href="https://www.myob.com/au/about/security/report-security-vulnerability">(Acknowledgments)</a>
 * Inflectra <a href="">(Hall of Fame)</a>
 * United Nations (5 times) <a href="https://unite.un.org/content/hall-fame">(Hall of Fame)</a>
-* European Union (4 times) <a href="https://cert.europa.eu/cert/newsletter/en/latest_HallOfFame_.html">(Hall of Fame)</a>
-<br>And others.. 
+* European Union (4 times) <a href="https://cert.europa.eu/cert/newsletter/en/latest_HallOfFame_.html">(Hall of Fame)</a> And others.. 
