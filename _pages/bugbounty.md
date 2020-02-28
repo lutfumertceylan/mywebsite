@@ -11,24 +11,18 @@ redirect_from:
 
 * Nike
 * NASA (2 times)
-* Siemens <a href="a">GOOGLE GİDER</a>
-* Apple <a href="">GOOGLE GİDER</a>
-* BlackBerry <a href="">GOOGLE GİDER</a>
-* Nokia <a href="">GOOGLE GİDER</a>
-* BMW <a href="">GOOGLE GİDER</a>
+* Siemens <a href="https://new.siemens.com/global/en/products/services/cert/hall-of-thanks.html">(Hall of Thanks)</a>
+* Apple <a href="https://support.apple.com/en-us/HT201536">(Hall of Fame)</a>
+* BlackBerry <a href="https://www.blackberry.com/ca/en/services/blackberry-incident-response-team#collaborations">(Acknowledgements 2019)</a>
+* Nokia <a href="https://www.nokia.com/responsible-disclosure/">(Hall of Fame)</a>
+* BMW <a href="https://www.bmwgroup.com/en/general/Security.html">(Hall of Fame)</a>
 * HTC
 * Sandisk
+* Oracle <a href="https://www.oracle.com/security-alerts/cpujan2020.html">(Acknowledgements)</a>
 * Nvidia
-* MAGIX
-* Myob <a href="">GOOGLE GİDER</a>
-* Inflectra <a href="">GOOGLE GİDER</a>
-* United Nations (5 times) <a href="">GOOGLE GİDER</a>
-* European Union (4 times) <a href="">GOOGLE GİDER</a>
+* MAGIX <a href="http://research.magix.com">(Hall of Fame)</a>
+* Myob <a href="https://www.myob.com/au/about/security/report-security-vulnerability">(Acknowledgments)</a>
+* Inflectra <a href="">(Hall of Fame)</a>
+* United Nations (5 times) <a href="https://unite.un.org/content/hall-fame">(Hall of Fame)</a>
+* European Union (4 times) <a href="https://cert.europa.eu/cert/newsletter/en/latest_HallOfFame_.html">(Hall of Fame)</a>
 And others.. 
-
-# Hall of Fame
-<a href="https://support.apple.com/en-us/HT201536">Apple Hall of Fame</a>
-<a href="">GOOGLE GİDER</a>
-<a href="">GOOGLE GİDER</a>
-<a href="">GOOGLE GİDER</a>
-<a href="">GOOGLE GİDER</a>
