@@ -18,6 +18,7 @@ redirect_from:
 * BMW <a href="https://www.bmwgroup.com/en/general/Security.html">(Hall of Fame)</a>
 * HTC
 * Sandisk
+* Erasmus University <a href="https://www.eur.nl/en/campus/security-safety/information-security/hall-fame">(Hall of Fame)</a>
 * Oracle <a href="https://www.oracle.com/security-alerts/cpujan2020.html">(Acknowledgements)</a>
 * Nvidia
 * MAGIX <a href="http://research.magix.com">(Hall of Fame)</a>
