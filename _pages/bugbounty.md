@@ -11,8 +11,9 @@ redirect_from:
 
 * Nike
 * NASA (2 times)
-* Siemens <a href="https://new.siemens.com/global/en/products/services/cert/hall-of-thanks.html">(Hall of Thanks)</a>
 * Apple <a href="https://support.apple.com/en-us/HT201536">(Hall of Fame)</a>
+* Siemens <a href="https://new.siemens.com/global/en/products/services/cert/hall-of-thanks.html">(Hall of Thanks)</a>
+* Philips <a href="https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html">(Hall of Honors)</a>
 * BlackBerry <a href="https://www.blackberry.com/ca/en/services/blackberry-incident-response-team#collaborations">(Acknowledgements 2019)</a>
 * Nokia <a href="https://www.nokia.com/responsible-disclosure/">(Hall of Fame)</a>
 * BMW <a href="https://www.bmwgroup.com/en/general/Security.html">(Hall of Fame)</a>
