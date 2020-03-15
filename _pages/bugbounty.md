@@ -23,6 +23,7 @@ redirect_from:
 * Oracle <a href="https://www.oracle.com/security-alerts/cpujan2020.html">(Acknowledgements)</a>
 * Nvidia
 * MAGIX <a href="http://research.magix.com">(Hall of Fame)</a>
+* SAP <a href="https://wiki.scn.sap.com/wiki/display/PSR/Acknowledgments+to+Security+Researchers">(Acknowledgements March 2020)</a>
 * Myob <a href="https://www.myob.com/au/about/security/report-security-vulnerability">(Acknowledgments)</a>
 * Inflectra <a href="https://www.inflectra.com/company/responsible-disclosure.aspx">(Hall of Fame)</a>
 * UN Women <a href="https://www.unwomen.org/en/about-the-website/information-security/reporting-a-cyber-security-issue#Hall-of-fame">(Hall of Fame)</a>
