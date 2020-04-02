@@ -8,5 +8,3 @@ author_profile: true
 {% include base_path %}
 
 <div class="list__item"><article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork"><h2 class="archive__item-title" itemprop="headline"> <a href="http://lutfumertceylan.com.tr/tools/url-dencoder" rel="permalink">URL Decoder/Encoder </a></h2><p class="archive__item-excerpt" itemprop="description"></p><p>URL Decoder/Encoder</p><p></p></article></div>
-
-{% endfor %}
