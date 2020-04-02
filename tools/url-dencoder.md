@@ -6,8 +6,7 @@ redirect_from:
   - /url-dencoder
 ---
 
-{% include base_path %}
-# URL Decoeder/Encoder
+# URL Decoder/Encoder
 
 <head>
 <style type="text/css">
@@ -199,9 +198,8 @@ function decode() {
         box-shadow: 0em -3em 0 0, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0, -2em -2em 0 0.2em;
     }
 }</style><style type="text/css">/* This is not a zero-length file! */</style></head>
+
 <body>
-
-
 <form onsubmit="return false;">
 
 <textarea cols="100" rows="20" id="dencoder"></textarea>
@@ -211,9 +209,4 @@ function decode() {
 </div>
 
 </form>
-
-</div>
-
-
-
-</body></html>
+</body>
