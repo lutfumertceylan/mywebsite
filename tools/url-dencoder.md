@@ -10,7 +10,6 @@ redirect_from:
 # URL Decoeder/Encoder
 
 <form onsubmit="return false;">
-<h1>URL Decoder/Encoder</h1>
 
 <textarea cols="100" rows="20" id="dencoder"></textarea>
 <div>
