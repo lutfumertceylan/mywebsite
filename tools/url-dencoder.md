@@ -36,14 +36,7 @@ function decode() {
 	obj.value = decodeURIComponent(encoded.replace(/\+/g,  " "));
 }
 </script>
-<style type="text/css">/*
- * contextMenu.js v 1.4.0
- * Author: Sudhanshu Yadav
- * s-yadav.github.com
- * Copyright (c) 2013 Sudhanshu Yadav.
- * Dual licensed under the MIT and GPL licenses
-**/
-
+<style type="text/css">
 .iw-contextMenu {
     box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.10) !important;
     border: 1px solid #c8c7cc !important;
@@ -210,7 +203,6 @@ function decode() {
 
 
 <form onsubmit="return false;">
-<h1>URL Decoder/Encoder</h1>
 
 <textarea cols="100" rows="20" id="dencoder"></textarea>
 <div>
@@ -218,24 +210,8 @@ function decode() {
 <input type="button" onclick="encode()" value="Encode">
 </div>
 
-<ul>
-<li>Input a string of text and encode or decode it as you like.</li>
-<li>Handy for turning encoded JavaScript URLs from complete gibberish into readable gibberish.</li>
-<li>If you'd like to have the URL Decoder/Encoder for offline use, just view source and save to your hard drive.</li>
-</ul>
-
 </form>
 
-
-<div id="footer">
-<img alt="Creative Commons License" border="0" src="//creativecommons.org/images/public/somerights.gif">
-<p>
-<br>
-The URL Decoder/Encoder is licensed under a Creative Commons <a href="http://creativecommons.org/licenses/by-sa/2.0/" rel="license">Attribution-ShareAlike 2.0</a> License.
-</p>
-<p>
-This tool is provided without warranty, guarantee, or much in the way of explanation.  Note that use of this tool may or may not crash your browser, lock up your machine, erase your hard drive, or e-mail those naughty pictures you hid in the Utilities folder to your mother.  Don't blame me if anything bad happens to you, because it's actually the aliens' fault.  The code expressed herein is solely that of the author, and he's none too swift with the JavaScript, if you know what we mean, so it's likely to cause giggle fits in anyone who knows what they're doing.  Not a flying toy.  Thank you for playing.  Insert coin to continue.
-</p>
 </div>
 
 
