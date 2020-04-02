@@ -1,4 +1,6 @@
 ---
+title: Url Decoder/Encoder
+collection: tools
 layout: archive
 permalink: /tools/url-dencoder
 author_profile: true
