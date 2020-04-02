@@ -6,8 +6,6 @@ redirect_from:
   - /url-dencoder
 ---
 
-# URL Decoder/Encoder
-
 <head>
 <style type="text/css">
 <!--
