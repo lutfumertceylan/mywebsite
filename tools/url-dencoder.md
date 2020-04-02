@@ -1,12 +1,11 @@
 ---
+title: URL Decoder/Encoder
 layout: archive
 permalink: /tools/url-dencoder
 author_profile: true
 redirect_from:
   - /url-dencoder
 ---
-
-<h1>URL Decoder/Encoder</h1>
 
 <head>
 <style type="text/css">
