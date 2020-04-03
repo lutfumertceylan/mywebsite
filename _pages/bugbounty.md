@@ -20,6 +20,7 @@ redirect_from:
 * HTC
 * Sandisk
 * Erasmus University <a href="https://www.eur.nl/en/campus/security-safety/information-security/hall-fame">(Hall of Fame 2020)</a>
+* Utrecht University <a href="https://www.uu.nl/en/node/1599/hall-of-fame-responsible-disclosure">(Hall of Fame)</a>
 * Oracle <a href="https://www.oracle.com/security-alerts/cpujan2020.html">(Acknowledgements)</a>
 * Nvidia
 * Nike
