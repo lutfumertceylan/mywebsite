@@ -30,5 +30,5 @@ redirect_from:
 * Myob <a href="https://www.myob.com/au/about/security/report-security-vulnerability">(Acknowledgments)</a>
 * Inflectra <a href="https://www.inflectra.com/company/responsible-disclosure.aspx">(Hall of Fame 2019)</a>
 * UN Women <a href="https://www.unwomen.org/en/about-the-website/information-security/reporting-a-cyber-security-issue#Hall-of-fame">(Hall of Fame)</a>
-* United Nations (5 times) <a href="https://unite.un.org/content/hall-fame">(Hall of Fame)</a>
-* European Union (4 times) <a href="https://cert.europa.eu/cert/newsletter/en/latest_HallOfFame_.html">(Hall of Fame)</a> And others.. 
+* United Nations (2 times) <a href="https://unite.un.org/content/hall-fame">(Hall of Fame)</a>
+* European Union <a href="https://cert.europa.eu/cert/newsletter/en/latest_HallOfFame_.html">(Hall of Fame)</a> And others.. 
