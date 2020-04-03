@@ -9,9 +9,8 @@ redirect_from:
 {% include base_path %}
 # Bug Bounty (Hall of Fames, Rewards and Appreciations)
 
-* Nike
-* NASA (2 times)
 * Apple <a href="https://support.apple.com/en-us/HT201536">(Hall of Fame 2019)</a>
+* ESET <a href="http://lutfumertceylan.com.tr/files/eset-acknowledgement.jpg">(Acknowledgements Letter)</a>
 * Siemens <a href="https://new.siemens.com/global/en/products/services/cert/hall-of-thanks.html">(Hall of Thanks 2019)</a>
 * Philips <a href="https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html">(Hall of Honors)</a>
 * Nokia <a href="https://www.nokia.com/responsible-disclosure/">(Hall of Fame Nov 2019)</a>
@@ -23,6 +22,8 @@ redirect_from:
 * Erasmus University <a href="https://www.eur.nl/en/campus/security-safety/information-security/hall-fame">(Hall of Fame 2020)</a>
 * Oracle <a href="https://www.oracle.com/security-alerts/cpujan2020.html">(Acknowledgements)</a>
 * Nvidia
+* Nike
+* NASA (2 times)
 * MAGIX <a href="http://research.magix.com">(Hall of Fame)</a>
 * SAP <a href="https://wiki.scn.sap.com/wiki/display/PSR/Acknowledgments+to+Security+Researchers">(Acknowledgements Mar 2020)</a>
 * Myob <a href="https://www.myob.com/au/about/security/report-security-vulnerability">(Acknowledgments)</a>
