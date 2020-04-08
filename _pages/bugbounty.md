@@ -11,6 +11,7 @@ redirect_from:
 
 * Apple <a href="https://support.apple.com/en-us/HT201536">(Hall of Fame 2019)</a>
 * ESET <a href="http://lutfumertceylan.com.tr/files/eset-acknowledgement.jpg">(Acknowledgements Letter)</a>
+* ASUS <a href="https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/">(Hall of Fame Mar 2020)</a>
 * Siemens <a href="https://new.siemens.com/global/en/products/services/cert/hall-of-thanks.html">(Hall of Thanks 2019)</a>
 * Philips <a href="https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html">(Hall of Honors)</a>
 * Nokia <a href="https://www.nokia.com/responsible-disclosure/">(Hall of Fame Nov 2019)</a>
