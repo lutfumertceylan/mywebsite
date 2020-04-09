@@ -18,6 +18,8 @@ redirect_from:
 * BlackBerry <a href="https://www.blackberry.com/ca/en/services/blackberry-incident-response-team#collaborations">(Acknowledgements 2019)</a>
 * Ericsson <a href="https://www.ericsson.com/en/about-us/enterprise-security/psirt/acknowledgements">(Acknowledgements 2020)</a>
 * BMW <a href="https://www.bmwgroup.com/en/general/Security.html">(Hall of Fame 2020)</a>
+* BBC <a href="https://www.bbc.com/backstage/security-disclosure-policy/acknowledgements">(Acknowlegements 2020)</a>
+* University of Twente <a href="https://www.utwente.nl/en/cyber-safety/responsible/hall-of-fame/">(Hall of Fame 2020)</a>
 * HTC
 * Sandisk
 * Erasmus University <a href="https://www.eur.nl/en/campus/security-safety/information-security/hall-fame">(Hall of Fame 2020)</a>
