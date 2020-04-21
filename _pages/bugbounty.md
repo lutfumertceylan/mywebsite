@@ -22,8 +22,10 @@ redirect_from:
 * University of Twente <a href="https://www.utwente.nl/en/cyber-safety/responsible/hall-of-fame/">(Hall of Fame 2020)</a>
 * HTC
 * Sandisk
+* Harvard University <a href="https://lutfumertceylan.com.tr/files/harvard.jpg">(Acknowledgements Letter)</a>
 * Erasmus University <a href="https://www.eur.nl/en/campus/security-safety/information-security/hall-fame">(Hall of Fame 2020)</a>
 * Utrecht University <a href="https://www.uu.nl/en/node/1599/hall-of-fame-responsible-disclosure">(Hall of Fame)</a>
+* University of York <a href="https://www.york.ac.uk/it-services/security/vulnerability-disclosure/">(Hall of Fame)</a>
 * Oracle <a href="https://www.oracle.com/security-alerts/cpujan2020.html">(Acknowledgements)</a>
 * Nvidia
 * Nike
