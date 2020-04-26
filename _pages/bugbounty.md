@@ -16,6 +16,7 @@ redirect_from:
 * Philips <a href="https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html">(Hall of Honors)</a>
 * Nokia <a href="https://www.nokia.com/responsible-disclosure/">(Hall of Fame Nov 2019)</a>
 * BlackBerry <a href="https://www.blackberry.com/ca/en/services/blackberry-incident-response-team#collaborations">(Acknowledgements 2019)</a>
+* Adobe <a href="adobe.com/security/acknowledgements.html">(Acknowledgements 2020)</a>
 * Ericsson <a href="https://www.ericsson.com/en/about-us/enterprise-security/psirt/acknowledgements">(Acknowledgements 2020)</a>
 * BMW <a href="https://www.bmwgroup.com/en/general/Security.html">(Hall of Fame 2020)</a>
 * BBC <a href="https://www.bbc.com/backstage/security-disclosure-policy/acknowledgements">(Acknowlegements 2020)</a>
