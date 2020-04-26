@@ -18,10 +18,10 @@ Education
 Work experience
 ======
 
-* July 2019 ~ : Hackerone [Profile](https://hackerone.com/lutfumertceylan)
+* July 2019 ~ : Hackerone [Profile](https://hackerone.com/zunfix)
   - Web Application Security Researcher (Bug Hunter)
 
-* July 2019 ~ : Bugcrowd [Profile](https://bugcrowd.com/lutfumertceylan)
+* July 2019 ~ : Bugcrowd [Profile](https://bugcrowd.com/zunfixe)
   - Web Application Security Researcher (Bug Hunter)
 
 * July 2019 ~ : Open Bug Bounty [Profile](https://www.openbugbounty.org/researchers/MertC/)
