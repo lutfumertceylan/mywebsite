@@ -38,7 +38,7 @@ I just created the page with the request to create a Password Recovery Page. The
 
 ### The end :
 
-9 April 2020 - Report sent
-10 April 2020 - Scenario requested
-13 April 2020 - Report's scenario sent
-14 April 2020 - I awarded a $$$ bounty
+9 April 2020 - Report sent<br>
+10 April 2020 - Scenario requested<br>
+13 April 2020 - Report's scenario sent<br>
+14 April 2020 - I awarded a $$$ bounty<br>
