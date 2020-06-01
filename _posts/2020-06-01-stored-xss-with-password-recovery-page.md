@@ -22,3 +22,23 @@ I discovered XSS with a simple payload execution in the "First Name" input. But 
 Because all pages were private for every user (except for one page). Then I saw that the password recovery page also contains user First Name value.
 
 
+### First Try
+I type a payload in the "first_name" input
+<img src="/images/payl.png">  
+
+but the system always encodes the payloads on Profile Page.
+<img src="/images/payl2.png">
+
+Profile Page was not public anyway. Not bad luck!
+
+### Catch You!!
+I believed XSS was no longer possible. But there is one last place, "Password Recovery Page", Moreover, it reflects the user's "first_name" value to the page.
+
+I just created the page with the request to create a Password Recovery Page. The system not encode the payload on this page. So payload was executed!
+
+### The end :
+
+9 April 2020 - Report sent
+10 April 2020 - Scenario requested
+13 April 2020 - Report's scenario sent
+14 April 2020 - I awarded a $$$ bounty
