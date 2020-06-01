@@ -19,4 +19,6 @@ I don't say the company that produced the system because they want to remain con
 
 ### Recon
 I discovered XSS with a simple payload execution in the "First Name" input. But I thought this vuln was a Self XSS.
-Because all pages were private for every user (except for one page).
+Because all pages were private for every user (except for one page). Then I saw that the password recovery page also contains user First Name value.
+
+
