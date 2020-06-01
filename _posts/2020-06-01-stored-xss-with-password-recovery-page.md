@@ -23,10 +23,10 @@ Because all pages were private for every user (except for one page). Then I saw 
 
 
 ### First Try
-I type a payload in the "first_name" input
+I type a payload in the "first_name" input<br>
 <img src="/images/payl.png">  
 
-but the system always encodes the payloads on Profile Page.
+but the system always encodes the payloads on Profile Page.<br>
 <img src="/images/payl2.png">
 
 Profile Page was not public anyway. Not bad luck!
