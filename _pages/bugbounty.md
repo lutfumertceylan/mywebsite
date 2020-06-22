@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /bugbounty
+permalink: /bugbounty/
 author_profile: true
 redirect_from:
   - /hof
