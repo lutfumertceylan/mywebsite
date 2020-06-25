@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Lutfu Mert Ceylan"
 title_separator          : ">"
 name                     : &name "Lutfu Mert Ceylan"
-description              : &description "15 y/o Amateur Bug Hunter | Web Application Security Researcher"
-url                      : #http://sametsahin.net #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "15 y/o Bug Researcher | Web Application Security Researcher"
+url                      : https://lutfumertceylan.com.tr #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : lutfumertceylan/website #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : dark # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lutfu Mert Ceylan"
   avatar           : "pp.jpeg"
-  bio              : "15 y/o Amateur Bug Hunter | Web Application Security Researcher"
+  bio              : "15 y/o Bug Researcher | Web Application Security Researcher"
   location         : "Turkey"
   employer         :
   googlescholar    : #"https://yourfullgooglescholarurl.com"
   email            : "lutfumertceylan@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
