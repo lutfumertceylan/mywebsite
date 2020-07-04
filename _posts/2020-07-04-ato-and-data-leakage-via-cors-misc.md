@@ -1,5 +1,5 @@
 ---
-title: 'EN \| Account Takeover and Senstive Data Leakage via CORS Misconfiguration'
+title: 'EN \| Account Takeover and Sensitive Data Leakage via CORS Misconfiguration'
 date: 2020-07-04
 permalink: /posts/ato-and-data-leakage-via-cors-misc/
 tags:
@@ -11,7 +11,7 @@ tags:
   - bugbounty
   - write-up
   - poc
-excerpt: 'EN \| Account Takeover and Senstive Data Leakage via CORS Misconfiguration'
+excerpt: 'EN \| Account Takeover and Sensitive Data Leakage via CORS Misconfiguration'
 ---
 
 In June of this year, I found a CORS Misconfiguration vulnerability in a datacenter company. The system was very simple, a PUT command sent to the API Server
