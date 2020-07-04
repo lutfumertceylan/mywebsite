@@ -16,7 +16,7 @@ excerpt: 'EN \| Account Takeover and Senstive Data Leakage via CORS Misconfigura
 
 In June of this year, I found a CORS Misconfiguration vulnerability in a datacenter company. The system was very simple, a PUT command sent to the API Server
 both changed the account email and showed all the data of the account in JSON format as Response. Then, I reported this weakness and the company rewarded me 
-with a $$$ bounty. Also, I would like to thank<a href="https://twitter.com/bugraeskici">Bugra Eskici</a> , who helped me a lot to detect this vulnerability.
+with a $$$ bounty. Also, I would like to thank <a href="https://twitter.com/bugraeskici">Bugra Eskici</a> , who helped me a lot to detect this vulnerability.
 
 ### Recon
 I was reviewing the responses by sending requests to the system. When I looked at request header, I saw that the "Origin" attribute was defined.
@@ -25,7 +25,9 @@ Also, the "Access-Control-Allow-Credentials" value was "true".
 
 ### Is it vulnerable?
 I write evil.com as the value to Origin. And Bingo! The response status was "200 OK" and evil.com was also included in the Access-Control-Allow-Origin attribute.<br>
+
 <img src="/images/corsheader.png"><br>
+
 That is, there was a CORS Misconfiguration vulnerability.
 
 ### Double Shot!!
@@ -45,7 +47,7 @@ And, sensitive data sent the attacker's site.
 <img src="/images/sensdatacors.jpg"><br>
 
 So I was able to both change the e-mail address of the victim account and steal sensitive data. Both vulnerabilities were caused by CORS Misconfiguration.
-As I have explained,it is possible to exploit these vulnerabilities with a simple script.
+As I have explained, it is possible to exploit these vulnerabilities with a simple script.
 
 ### The end :
 
