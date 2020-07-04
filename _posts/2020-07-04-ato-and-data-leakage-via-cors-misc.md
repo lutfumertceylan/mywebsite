@@ -2,6 +2,7 @@
 title: 'EN \| Account Takeover and Sensitive Data Leakage via CORS Misconfiguration'
 date: 2020-07-04
 permalink: /posts/ato-and-data-leakage-via-cors-misc/
+- /corsmisc/
 tags:
   - cors misconfiguration
   - account takeover
