@@ -11,7 +11,7 @@ tags:
   - bugbounty
   - write-up
   - poc
-excerpt: "EN /| Account Takeover and Sensitive Data Leakage via CORS Misconfiguration"
+excerpt: 'EN /| Account Takeover and Sensitive Data Leakage via CORS Misconfiguration'
 ---
 
 <img src="https://portswigger.net/web-security/images/attack-on-cors.svg"><br>
