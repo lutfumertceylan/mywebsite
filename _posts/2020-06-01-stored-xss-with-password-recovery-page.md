@@ -10,7 +10,7 @@ tags:
   - bugbounty
   - write-up
   - poc
-excerpt: 'EN \| Stored XSS with Password Recovery Page'
+excerpt: 'Stored XSS with Password Recovery Page'
 ---
 
 In April of this year, I found a Stored Xss vulnerability at University of Utwente. However, I later realized that there was a vendor of
