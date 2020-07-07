@@ -14,6 +14,8 @@ tags:
 excerpt: "EN /| Account Takeover and Sensitive Data Leakage via CORS Misconfiguration"
 ---
 
+<img src="https://portswigger.net/web-security/images/attack-on-cors.svg"><br>
+
 In June of this year, I found a CORS Misconfiguration vulnerability in a datacenter company. The system was very simple, a PUT command sent to the API Server
 both changed the account email and showed all the data of the account in JSON format as Response. Then, I reported this weakness and the company rewarded me 
 with a $$$ bounty. Also, I would like to thank <a href="https://twitter.com/bugraeskici">Bugra Eskici</a> , who helped me a lot to detect this vulnerability.
