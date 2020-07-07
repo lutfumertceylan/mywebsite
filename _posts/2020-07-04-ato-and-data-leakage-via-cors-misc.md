@@ -11,7 +11,7 @@ tags:
   - bugbounty
   - write-up
   - poc
-excerpt: 'EN \| Account Takeover and Sensitive Data Leakage via CORS Misconfiguration<br><img src='/images/pp.jpeg'>'
+excerpt: "EN \| Account Takeover and Sensitive Data Leakage via CORS Misconfiguration<br><img src='/images/pp.jpeg'>"
 ---
 
 In June of this year, I found a CORS Misconfiguration vulnerability in a datacenter company. The system was very simple, a PUT command sent to the API Server
