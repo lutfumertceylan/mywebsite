@@ -11,14 +11,15 @@ redirect_from:
 # Bug Bounty (Hall of Fames, Rewards and Appreciations)
 
 * Apple <a href="https://support.apple.com/en-us/HT201536">(Hall of Fame 2019)</a>
-* ESET <a href="http://lutfumertceylan.com.tr/files/eset-acknowledgement.jpg">(Acknowledgements Letter)</a> <a href="https://twitter.com/lutfumertceylan/status/1275876003257204737">(Swag)</a> 
-* ASUS <a href="https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/">(Hall of Fame Mar 2020)</a>
+* Mozilla <a href="https://www.mozilla.org/en-US/security/bug-bounty/web-hall-of-fame/">(Hall of Fame 1st Quarter 2020)</a>
+* Adobe <a href="adobe.com/security/acknowledgements.html">(Acknowledgements 2020)</a>
+* Eset <a href="http://lutfumertceylan.com.tr/files/eset-acknowledgement.jpg">(Acknowledgements Letter)</a> <a href="https://twitter.com/lutfumertceylan/status/1275876003257204737">(Swag)</a> 
+* Asus <a href="https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/">(Hall of Fame Mar 2020)</a>
 * Siemens <a href="https://new.siemens.com/global/en/products/services/cert/hall-of-thanks.html">(Hall of Thanks 2019)</a>
 * Philips <a href="https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html">(Hall of Honors)</a>
 * Nokia <a href="https://www.nokia.com/responsible-disclosure/">(Hall of Fame Nov 2019)</a>
 * Huawei <a href="http://lutfumertceylan.com.tr/files/huawei.jpg">(Acknowledgements Letter)</a>
 * BlackBerry <a href="https://www.blackberry.com/ca/en/services/blackberry-incident-response-team#collaborations">(Acknowledgements 2019)</a>
-* Adobe <a href="adobe.com/security/acknowledgements.html">(Acknowledgements 2020)</a>
 * Ericsson <a href="https://www.ericsson.com/en/about-us/enterprise-security/psirt/acknowledgements">(Acknowledgements 2020)</a>
 * BMW <a href="https://www.bmwgroup.com/en/general/Security.html">(Hall of Fame 2020)</a>
 * BBC <a href="https://www.bbc.com/backstage/security-disclosure-policy/acknowledgements">(Acknowlegements 2020)</a>
