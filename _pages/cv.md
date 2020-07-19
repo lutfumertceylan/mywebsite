@@ -43,7 +43,8 @@ Skills
   * Web Application Security
 
 **Languages**
-* HTML (Beginner)
+* HTML
+* CSS
 * Python (Beginner)
 
 **OS**
