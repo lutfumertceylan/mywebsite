@@ -11,7 +11,7 @@ tags:
   - bugbounty
   - write-up
   - poc
-excerpt: 'Alert-box Message Content Manipulation based Base64'
+excerpt: '<img src="https://mk0resourcesinfm536w.kinstacdn.com/wp-content/uploads/ContentSpoofing08022013.jpg"> Alert-box Message Content Manipulation based Base64'
 ---
 
 <img src="https://mk0resourcesinfm536w.kinstacdn.com/wp-content/uploads/ContentSpoofing08022013.jpg"><br>
