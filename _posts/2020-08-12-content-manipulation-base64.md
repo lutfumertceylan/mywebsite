@@ -1,5 +1,5 @@
 ---
-title: 'EN \| Alert-box Message Content Manipulation based Base64'
+title: '<img src="https://mk0resourcesinfm536w.kinstacdn.com/wp-content/uploads/ContentSpoofing08022013.jpg"><br> EN \| Alert-box Message Content Manipulation based Base64'
 date: 2020-08-12
 permalink: /posts/alertbox-manipulation-base64/
 tags:
@@ -11,7 +11,7 @@ tags:
   - bugbounty
   - write-up
   - poc
-excerpt: '<img src="https://mk0resourcesinfm536w.kinstacdn.com/wp-content/uploads/ContentSpoofing08022013.jpg"> Alert-box Message Content Manipulation based Base64'
+excerpt: 'Alert-box Message Content Manipulation based Base64'
 ---
 
 <img src="https://mk0resourcesinfm536w.kinstacdn.com/wp-content/uploads/ContentSpoofing08022013.jpg"><br>
