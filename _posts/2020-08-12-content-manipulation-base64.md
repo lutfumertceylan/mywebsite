@@ -1,5 +1,5 @@
 ---
-title: '<img src="https://mk0resourcesinfm536w.kinstacdn.com/wp-content/uploads/ContentSpoofing08022013.jpg"> <br> EN \| Alert-box Message Content Manipulation based Base64'
+title: 'EN \| Alert-box Message Content Manipulation based Base64'
 date: 2020-08-12
 permalink: /posts/alertbox-manipulation-base64/
 tags:
