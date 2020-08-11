@@ -14,11 +14,11 @@ tags:
 excerpt: 'Alert-box Message Content Manipulation based Base64'
 ---
 
-<img src="https://www.researchgate.net/publication/307802786/figure/fig2/AS:670704475332613@1536919816553/Top-Attack-Methods-in-the-years-1999-201156.png"><br>
+<img src="https://mk0resourcesinfm536w.kinstacdn.com/wp-content/uploads/ContentSpoofing08022013.jpg"><br>
 
 In July of this year, I found a Content Spoofing vulnerability in a Bitcoin Exchange company. The system was very simple, a encrypted text in a 
 GET parameter was decrypted and reflected on the homepage in an alertbox. I know it's very simple and its impact is <b>very low</b>. <u>In my philosophy, every finding
-is worth reporting.<u> Then, I reported this weakness and the company rewarded me with a $$$ bounty.
+is worth reporting.</u> Then, I reported this weakness and the company rewarded me with a $$$ bounty.
 
 ### Recon
 
