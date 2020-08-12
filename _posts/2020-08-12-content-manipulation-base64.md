@@ -11,7 +11,7 @@ tags:
   - bugbounty
   - write-up
   - poc
-excerpt: 'Alert-box Message Content Manipulation based Base64'
+excerpt: 'In July of this year, I found a Content Spoofing vulnerability in a Bitcoin Exchange company. The system was very simple, a encrypted text in a GET parameter was decrypted and reflected on the homepage in an alertbox. I know it’s...'
 ---
 
 <img src="https://mk0resourcesinfm536w.kinstacdn.com/wp-content/uploads/ContentSpoofing08022013.jpg"><br>
