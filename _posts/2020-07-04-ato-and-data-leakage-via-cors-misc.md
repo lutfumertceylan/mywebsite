@@ -55,4 +55,4 @@ As I have explained, it is possible to exploit these vulnerabilities with a simp
 
 10 June 2020 - Report sent<br>
 10 June 2020 - Confirmed <br>
-11 June 2020 - I awarded a $$$ bounty<br>
+11 June 2020 - I was awarded a $$$ bounty<br>
