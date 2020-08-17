@@ -26,8 +26,7 @@ redirect_from:
 * BBC <a href="https://www.bbc.com/backstage/security-disclosure-policy/acknowledgements">(Acknowlegements 2020)</a>
 * Telecom Italia <a href="https://www.gruppotim.it/it/footer/responsible-disclosure.html">(Hall of Fame 2020)</a>
 * University of Twente <a href="https://www.utwente.nl/en/cyber-safety/responsible/hall-of-fame/">(Hall of Fame 2020)</a>
-* HTC
-* Sandisk
+* Cambridge University <a href="https://lutfumertceylan.com.tr/images/cambridge.jpg">(Letter of Appreciation)</a>
 * Harvard University <a href="https://lutfumertceylan.com.tr/files/harvard.jpg">(Acknowledgements Letter)</a>
 * Drexel University <a href="https://lutfumertceylan.com.tr/files/drexel.jpg">(Acknowledgements Letter)</a> <a href="https://drexel.edu/it/security/services-processes/bug-bounty/">(Hall of Fame)</a>
 * Erasmus University <a href="https://www.eur.nl/en/campus/security-safety/information-security/hall-fame">(Hall of Fame 2020)</a>
@@ -36,7 +35,9 @@ redirect_from:
 * Oracle <a href="https://www.oracle.com/security-alerts/cpujan2020.html">(Acknowledgements)</a>
 * Nvidia
 * Nike
-* NASA (2 times)
+* NASA
+* HTC
+* Sandisk
 * MAGIX <a href="http://research.magix.com">(Hall of Fame)</a>
 * SAP <a href="https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=451071888">(Acknowledgements Mar 2020)</a>
 * Myob <a href="https://www.myob.com/au/about/security/report-security-vulnerability">(Acknowledgments)</a>
