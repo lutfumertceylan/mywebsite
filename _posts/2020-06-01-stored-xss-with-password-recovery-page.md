@@ -43,4 +43,4 @@ I just created the page with the request to create a Password Recovery Page. The
 9 April 2020 - Report sent<br>
 10 April 2020 - Scenario requested<br>
 13 April 2020 - Report's scenario sent<br>
-14 April 2020 - I awarded a $$$ bounty<br>
+14 April 2020 - I was awarded a $$$ bounty<br>
