@@ -40,6 +40,7 @@ redirect_from:
 * Sandisk
 * MAGIX <a href="http://research.magix.com">(Hall of Fame)</a>
 * SAP <a href="https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=451071888">(Acknowledgements Mar 2020)</a>
+* Honeywell <a href="honeywell.com/en-us/product-security#items_304654820/">(Hall of Fame)</a>
 * Myob <a href="https://www.myob.com/au/about/security/report-security-vulnerability">(Acknowledgments)</a>
 * Inflectra <a href="https://www.inflectra.com/company/responsible-disclosure.aspx">(Hall of Fame 2019)</a>
 * UN Women <a href="https://www.unwomen.org/en/about-the-website/information-security/reporting-a-cyber-security-issue#Hall-of-fame">(Hall of Fame)</a>
