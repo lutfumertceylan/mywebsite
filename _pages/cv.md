@@ -46,6 +46,7 @@ Skills
 * HTML
 * CSS
 * Python (Beginner)
+* Javascript (Beginner)
 
 **OS**
 * Linux 
