@@ -14,6 +14,8 @@ tags:
 excerpt: 'In June of this year, I found a CORS Misconfiguration vulnerability in a datacenter company. The system was very simple, a PUT command sent to the API Server both changed the account email and showed all the data of the account in JSON format as Response. Then, I reported... '
 ---
 
+<meta property="og:image" content="https://www.infosecmatter.com/wp-content/uploads/2020/12/bug-bounty-tips-10-logo.jpg" />
+
 <img src="https://portswigger.net/web-security/images/attack-on-cors.svg"><br>
 
 In June of this year, I found a CORS Misconfiguration vulnerability in a datacenter company. The system was very simple, a PUT command sent to the API Server
