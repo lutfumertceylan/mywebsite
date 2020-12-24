@@ -1,5 +1,5 @@
 ---
-title: '<meta property="og:image" content="https://www.infosecmatter.com/wp-content/uploads/2020/12/bug-bounty-tips-10-logo.jpg" /> EN \| Account Takeover and Sensitive Data Leakage via CORS Misconfiguration'
+title: 'EN \| Account Takeover and Sensitive Data Leakage via CORS Misconfiguration'
 date: 2020-07-04
 permalink: /posts/ato-and-data-leakage-via-cors-misc/
 tags:
