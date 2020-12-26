@@ -56,7 +56,7 @@ The payload is cached in the web, and the payload is triggered each time the vic
 I reported the vulnerability, and they agreed that it should be fixed.
 
 If you want to learn Web Cache Poisoning:<br>
-<a href="https://portswigger.net/web-security/web-cache-poisoning"></a>
+<a href="https://portswigger.net/web-security/web-cache-poisoning">https://portswigger.net/web-security/web-cache-poisoning</a>
 
 ### The end and results :
 
