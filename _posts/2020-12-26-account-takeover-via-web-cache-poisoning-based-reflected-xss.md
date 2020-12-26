@@ -12,7 +12,7 @@ tags:
   - bugbounty
   - write-up
   - poc
-excerpt: 'asd'
+excerpt: 'Firstly, its nice to publish my last write-up this year. In June of this year, I found a Reflected XSS vulnerability in a video-game company. Then, I realized that this server is caching the weak parameters value. In this way, I incresead the...'
 ---
 
 <img src="https://lutfumertceylan.com.tr/images/web-cache.png"><br>
