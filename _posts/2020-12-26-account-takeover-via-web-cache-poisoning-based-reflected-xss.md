@@ -24,7 +24,7 @@ Later, I reported the vulnerability and they fixed this vulnerability. Also, the
 ### Recon
 
 
-I discovered a Reflected XSS with a basic payload (`1</script><svg/onload=confirm("document.cookie")>`) in the “language” input. I thought this vuln was a normal Reflected XSS. As usual, the vulnerability was triggered when going to
+I discovered a Reflected XSS with a basic payload<br> (`1</script><svg/onload=confirm("document.cookie")>`) in the “language” input. I thought this vuln was a normal Reflected XSS. As usual, the vulnerability was triggered when going to
 the vulnerable URL and user session was stolen with a suitable payload. Because, the session cookie did not have any `httponly` or `secure` flags.
 
 For those who don't know what httponly and secure flag is:
