@@ -1,17 +1,10 @@
 ---
 title: 'EN \| a'
 date: 2020-12-26
-permalink: /posts/acc-takeover-web-cache-xss/
+permalink: /posts/asd/
 tags:
   - web cache poisoning
   - account takeover
-  - web cache poisoning to account takeover
-  - reflected xss to account takeover
-  - reflected xss
-  - hack
-  - bugbounty
-  - write-up
-  - poc
 excerpt: 'a'
 ---
 
