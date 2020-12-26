@@ -24,12 +24,13 @@ Later, I reported the vulnerability and they fixed this vulnerability. Also, the
 ### Recon
 
 
-I discovered a Reflected XSS with a basic payload execution (`1</script><svg/onload=confirm("document.cookie")>`) in the “language” input. I thought this vuln was a normal Reflected XSS. As usual, the vulnerability was triggered when going to
+I discovered a Reflected XSS with a basic payload (`1</script><svg/onload=confirm("document.cookie")>`) in the “language” input. I thought this vuln was a normal Reflected XSS. As usual, the vulnerability was triggered when going to
 the vulnerable URL and user session was stolen with a suitable payload. Because, the session cookie did not have any `httponly` or `secure` flags.
 
 For those who don't know what httponly and secure flag is:
-> `HttpOnly:` An HttpOnly Cookie is a tag added to a browser cookie that prevents client-side scripts from accessing data. [from CookiePro]
-> `secure:` When a secure flag is used, then the cookie will only be sent over HTTPS, which is HTTP over SSL/TLS. When this is the case, the attacker eavesdropping on the communication channel from the browser to the server will not be able to read the cookie (HTTPS provides authentication, data integrity and confidentiality). [from infosecinstitute]
+> `HttpOnly:` An HttpOnly Cookie is a tag added to a browser cookie that prevents client-side scripts from accessing data. <i>[from CookiePro]</i><br>
+
+> `secure:` When a secure flag is used, then the cookie will only be sent over HTTPS, which is HTTP over SSL/TLS. When this is the case, the attacker eavesdropping on the communication channel from the browser to the server will not be able to read the cookie (HTTPS provides authentication, data integrity and confidentiality). <i>[from infosecinstitute]</i>
 
 ### Impact Escalation with Web Cache Poisoning!
 But then, I saw that each page also contains `language` parameter. And I realized that the value of this parameter is put in the web cache. So this means:
