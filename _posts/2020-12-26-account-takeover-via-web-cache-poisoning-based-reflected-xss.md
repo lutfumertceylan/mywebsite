@@ -2,7 +2,7 @@
 title: 'EN \| Account Takeover via Web Cache Poisoning based Reflected XSS'
 date: 2020-12-26
 permalink: /posts/acc-takeover-web-cache-xss/
-header_extra: <meta property="og:image" content="https://blogvaronis2.wpengine.com/wp-content/uploads/2019/11/dns-cache-poisoning-icon-1.png" />
+header_extra: <meta property="og:image" content="https://portswigger.net/cms/images/7d/05/a25f-article-entanglement-article_article_copy_6.jpg" />
 tags:
   - web cache poisoning
   - account takeover
