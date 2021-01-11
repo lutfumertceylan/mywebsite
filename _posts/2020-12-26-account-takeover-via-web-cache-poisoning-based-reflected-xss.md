@@ -42,6 +42,8 @@ Detectify may be useful for you.
 
 <img src="https://blog.detectify.com/wp-content/uploads/2020/07/web_cache_poisoning.png"><br>
 
+Also, you can read Dedectify's article: https://blog.detectify.com/2020/07/28/do-you-trust-your-cache-web-cache-poisoning-explained/
+
 ### And a simple Account Takeover
 
 As we mentioned at the beginning, there was no `httponly` and `secure` flag or a `Content-Security-Policy (CSP)` that can block payload on the site.
