@@ -1,5 +1,5 @@
 ---
-layout: contents
+layout: archive
 title: "Contents"
 permalink: /contents/
 author_profile: true
