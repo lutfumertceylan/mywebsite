@@ -17,7 +17,7 @@ Below is a brief summary of the content on my website:
 <h2>Exploits / CVEs (I discovered)</h2>
 
 <details>
-  <summary><h2>CVE-2020-8512</h2></summary>
+  <summary>CVE-2020-8512</summary>
 
   1. IceWarp WebMail 11.4.4.1 Cross-Site Scripting
      * [https://www.exploit-db.com/exploits/47988](https://www.exploit-db.com/exploits/47988)
