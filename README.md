@@ -8,16 +8,16 @@ Below is a brief summary of the content on my website:
 
 <h2>Write-ups</h2>
 
-<a href="https://lutfumertceylan.com.tr/posts/acc-takeover-web-cache-xss/">EN | Account Takeover via Web Cache Poisoning based Reflected XSS</a>
-<a href="https://lutfumertceylan.com.tr/posts/clickjacking-acc-takeover-drag-drop/">EN | Clickjacking to Account Takeover via Drag&Drop</a>
-<a href="https://lutfumertceylan.com.tr/posts/alertbox-manipulation-base64/">EN | Alert-box Message Content Manipulation based Base64</a>
-<a href="https://lutfumertceylan.com.tr/posts/ato-and-data-leakage-via-cors-misc/">EN | Account Takeover and Sensitive Data Leakage via CORS Misconfiguration</a>
-<a href="https://lutfumertceylan.com.tr/posts/stored-xss-with-password-recovery-page/">EN | Stored XSS with Password Recovery Page</a>
+<a href="https://lutfumertceylan.com.tr/posts/acc-takeover-web-cache-xss/">EN | Account Takeover via Web Cache Poisoning based Reflected XSS</a><br>
+<a href="https://lutfumertceylan.com.tr/posts/clickjacking-acc-takeover-drag-drop/">EN | Clickjacking to Account Takeover via Drag&Drop</a><br>
+<a href="https://lutfumertceylan.com.tr/posts/alertbox-manipulation-base64/">EN | Alert-box Message Content Manipulation based Base64</a><br>
+<a href="https://lutfumertceylan.com.tr/posts/ato-and-data-leakage-via-cors-misc/">EN | Account Takeover and Sensitive Data Leakage via CORS Misconfiguration</a><br>
+<a href="https://lutfumertceylan.com.tr/posts/stored-xss-with-password-recovery-page/">EN | Stored XSS with Password Recovery Page</a><br>
 
 <h2>Exploits / CVEs (I discovered)</h2>
 
 <details>
-  <summary>CVE-2020-8512</summary>
+  <summary><h2>CVE-2020-8512</h2></summary>
 
   1. IceWarp WebMail 11.4.4.1 Cross-Site Scripting
      * [https://www.exploit-db.com/exploits/47988](https://www.exploit-db.com/exploits/47988)
