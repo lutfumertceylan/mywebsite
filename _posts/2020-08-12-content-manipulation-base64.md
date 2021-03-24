@@ -11,12 +11,12 @@ tags:
   - bugbounty
   - write-up
   - poc
-excerpt: 'In July of this year, I found a Content Spoofing vulnerability in a Bitcoin Exchange company. The system was very simple, a encrypted text in a GET parameter was decrypted and reflected on the homepage in an alertbox. I know it’s...'
+excerpt: 'In July of this year, I found a Content Spoofing vulnerability in a Bitcoin Exchange company. The system was very simple, an encrypted text in a GET parameter was decrypted and reflected on the homepage in an alertbox. I know it’s...'
 ---
 
-<img src="https://mk0resourcesinfm536w.kinstacdn.com/wp-content/uploads/ContentSpoofing08022013.jpg"><br>
+<img src="https://lutfumertceylan.com.tr/images/contentspoofing.png"><br>
 
-In July of this year, I found a Content Spoofing vulnerability in a Bitcoin Exchange company. The system was very simple, a encrypted text in a 
+In July of this year, I found a Content Spoofing vulnerability in a Bitcoin Exchange company. The system was very simple, an encrypted text in a 
 GET parameter was decrypted and reflected on the homepage in an alertbox. I know it's very simple and its impact is <b>very low</b>. <u>In my philosophy, every finding
 is worth reporting.</u> Then, I reported this weakness and the company rewarded me with a $$$ bounty.
 
