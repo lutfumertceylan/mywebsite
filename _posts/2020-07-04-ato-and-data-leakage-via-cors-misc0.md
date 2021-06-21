@@ -1,5 +1,5 @@
 ---
-title: 'EN \| Account Takeover and Sensitive Data Leakage via CORS Misconfiguration'
+title: '<div style="display:none;">EN \| Account Takeover and Sensitive Data Leakage via CORS Misconfiguration</div>'
 date: 2020-07-04
 permalink: /posts/ato-and-data-leakage-via-cors-misc/
 header_extra: <meta property="og:image" content="https://lutfumertceylan.com.tr/images/corsimg.jpg" />
