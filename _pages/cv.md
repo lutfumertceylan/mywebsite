@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 
-* July 2019 ~ : Bugcrowd [Profile](https://bugcrowd.com/zunfixe)
+* July 2019 ~ : Bugcrowd
   - Web Application Security Researcher (Bug Hunter)
 
 * December 2019 ~ : Open Bug Bounty [Profile](https://www.openbugbounty.org/researchers/MertC/)
