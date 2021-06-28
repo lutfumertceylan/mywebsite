@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Bug Bounty (Hall of Fames, Rewards and Appreciations)
+# Bug Bounty (Halls of Fame, Rewards and Appreciations)
 
 * Apple <a href="https://support.apple.com/en-us/HT201536">(Hall of Fame 2019)</a>
 * Mozilla <a href="https://www.mozilla.org/en-US/security/bug-bounty/web-hall-of-fame/">(Hall of Fame 1st Quarter 2020)</a>
