@@ -6,9 +6,6 @@ main:
   - title: "Write-ups"
     url: /blog/
     
-  - title: "Tools"
-    url: /tools
-    
   - title: "Exploits"
     url: /exploits/
 
