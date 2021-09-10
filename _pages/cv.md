@@ -56,7 +56,7 @@ Skills
 
 Articles
 ======
-<a src="https://portswigger.net/daily-swig/one-in-five-icewarp-mail-servers-still-vulnerable-to-pre-pandemic-security-flaw">One in five IceWarp mail servers still vulnerable to pre-pandemic security flaw (Portswigger)</a>
+* <a src="https://portswigger.net/daily-swig/one-in-five-icewarp-mail-servers-still-vulnerable-to-pre-pandemic-security-flaw">One in five IceWarp mail servers still vulnerable to pre-pandemic security flaw (Portswigger)</a>
   
   
 Exploits
