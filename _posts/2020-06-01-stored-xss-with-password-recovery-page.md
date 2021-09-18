@@ -13,7 +13,7 @@ tags:
 excerpt: 'In April of this year, I found a Stored Xss vulnerability at University of Utwente. However, I later realized that there was a vendor of the vulnerable system, and I contacted them. Then they fixed this vuln. and rewarded me with a $$$ bounty. Also this was my first bounty...'
 ---
 
-<img src="https://portswigger.net/web-security/images/cross-site-scripting.svg"><br>
+<img src="/images/cross-site-scripting.svg"><br>
 
 In April of this year, I found a Stored Xss vulnerability at University of Utwente. However, I later realized that there was a vendor of
 the vulnerable system, and I contacted them. Then they fixed this vuln. and rewarded me with a $$$ bounty. Also this was my first bounty.
