@@ -15,7 +15,7 @@ tags:
 excerpt: 'In August of this year, I found a Clickjacking vulnerability in a dutch company. Later I realized that this vulnerability could be upgraded to Account Takeover. Then, I coded a PoC template with CSS and reported the vulnerability. And they fixed...'
 ---
 
-<img src="https://portswigger.net/web-security/images/clickjacking-infographic.svg"><br>
+<img src="/images/clickjacking-infographic.svg"><br>
 
 In August of this year, I found a Clickjacking vulnerability in a dutch company. Later I realized that this vulnerability could be upgraded to Account Takeover. Then,
 I coded a PoC template with CSS and reported the vulnerability. And they fixed this vulnerability and rewarded me with a €€€ bounty. I don't say the company, because they
