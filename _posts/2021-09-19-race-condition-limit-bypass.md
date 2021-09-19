@@ -16,7 +16,7 @@ excerpt: "In September of last year, I found a Race Condition vulnerability at a
 <img src="/images/race.png"><br>
 <hr><br>
 In September of last year, I found a Race Condition vulnerability at an Online Services company located in the Netherlands. They had a private Zerocopter
-program and that's why I was doing bug hunting based on web applications, on their systems. And I reported the vulnerability to them. Then they fixed this vulnerability and rewarded me with a €€€ bounty.
+program and that's why I was doing bug hunting based on web applications, on their systems. And I reported the vulnerability to them. Then, they fixed this vulnerability and rewarded me with a €€€ bounty.
 
 
 ## Firstly, what is a Race Condition?
@@ -71,7 +71,6 @@ I found the Add User function and executed the code snippet here with the Turbo 
 And yeah! Like other functions, the Add User function also had a Race Condition vulnerability. And I was able to add as many users as I wanted to my test group. So I was able to do things on a free account that only a premium account can do.
 <br><br>
 As you can see in the screenshot, my limit to add **1** user as a free membership has decreased to **-22**. So we broke the limit counter.
-<hr>
 
 ## The end :
 
