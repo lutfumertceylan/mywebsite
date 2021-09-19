@@ -19,7 +19,7 @@ In September of last year, I found a Race Condition vulnerability at an Online S
 program and that's why I was doing bug hunting based on web applications, on their systems. And I reported the vulnerability to them. Then they fixed this vulnerability and rewarded me with a €€€ bounty.
 
 
-### Firstly, what is a Race Condition?
+## Firstly, what is a Race Condition?
 
 <blockquote>
 <b>What Is a Race Condition?</b><br>
@@ -37,13 +37,15 @@ Race condition attacks (also called Time of Check to Time of Use, or TOCTTOU att
 <p align="right"><i>-Veracode</i></p>
 </blockquote>
 
-### Recon
+## Recon
 When I was doing my pre-research normally for system recognition, I had already determined that they did not have a Rate Limit and I had reported it before. Of course, as you know, we cannot talk
-about the existence of Race Condition vulnerability without No Rate Limit. Because these two are related vulnerabilities. The Race Condition vulnerability can exist thanks to a base formed by the
+about the existence of Race Condition vulnerability without No Rate Limit. Because these two are related vulnerabilities.
+<br><br>
+The Race Condition vulnerability can exist thanks to a base formed by the
 No Rate Limit vulnerability. Later, I realized that this vulnerability is not only in a single function, but in every function. And I researched for the riskiest place to amplify the impact.
 
 <hr>
-### There is something..
+## There is something..
 I was trying to prove the existence of a Race Condition vulnerability in a function with no impact.
 For this I use Turbo Intruder, which is a plugin of Burp Suite. If you want to get it, you can find it on the BApp Store.<br>
 <img src="/images/turbo-int.jpg"><br>
@@ -56,7 +58,7 @@ You can go to this tweet to access this code snippet: [a Python Snippet to try R
 And yes, this system had a Race Condition vulnerability.
 <img src="/images/race-done.jpg"><br>
 <hr>
-### Eureka!
+## Eureka!
 I had already grasped how the system works in pre-research. A premium membership(worth ~500€) was required to add multiple users to the test group. So a free membership could only add 1 user to the group.
 I found the Add User function and executed the code snippet here with the Turbo Intruder.<br>
 <img src="/images/race-panel.png"><br>
@@ -65,7 +67,7 @@ And yeah! Like other functions, the Add User function also had a Race Condition 
 <br><br>
 As you can see in the screenshot, my limit to add **1** user as a free membership has decreased to **-22**. So we broke the limit counter.
 <hr>
-### The end :
+## The end :
 
 13 September 2020 - Report sent<br>
 15 September 2020 - Confirmed by triager<br>
