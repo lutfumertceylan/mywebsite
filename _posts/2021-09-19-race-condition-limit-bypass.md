@@ -10,7 +10,7 @@ tags:
   - bugbounty
   - write-up
   - poc
-excerpt: 'In September of last year, I found a Race Condition vulnerability at an Online Services company located in the Netherlands. They had a private Zerocopter program and that's why I was doing bug hunting based on web applications, on their systems. And I reported the...'
+excerpt: 'asd'
 ---
 
 In September of last year, I found a Race Condition vulnerability at an Online Services company located in the Netherlands. They had a private Zerocopter
