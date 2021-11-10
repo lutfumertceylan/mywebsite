@@ -13,6 +13,7 @@ redirect_from:
 * Apple <a href="https://support.apple.com/tr-tr/HT212711">(Hall of Fame 2019)</a>
 * Mozilla <a href="https://www.mozilla.org/en-US/security/bug-bounty/web-hall-of-fame/">(Hall of Fame 1st Quarter 2020)</a>
 * Adobe <a href="https://adobe.com/security/acknowledgements.html">(Acknowledgements 2020)</a>
+* Oracle <a href="https://www.oracle.com/security-alerts/cpujan2020.html">(Acknowledgements)</a>
 * Eset <a href="http://lutfumertceylan.com.tr/files/eset-acknowledgement.jpg">(Acknowledgements Letter)</a> <a href="https://twitter.com/lutfumertceylan/status/1275876003257204737">(Swag)</a> 
 * Asus <a href="https://www.asus.com/Static_WebPage/ASUS-Product-Security-Advisory/">(Hall of Fame Mar 2020)</a>
 * Siemens <a href="https://new.siemens.com/global/en/products/services/cert/hall-of-thanks.html">(Hall of Thanks 2019)</a>
@@ -32,7 +33,7 @@ redirect_from:
 * Erasmus University <a href="https://www.eur.nl/en/campus/security-safety/information-security/hall-fame">(Hall of Fame 2020)</a>
 * Utrecht University <a href="https://www.uu.nl/en/node/1599/hall-of-fame-responsible-disclosure">(Hall of Fame)</a>
 * University of York <a href="https://www.york.ac.uk/it-services/security/vulnerability-disclosure/">(Hall of Fame)</a>
-* Oracle <a href="https://www.oracle.com/security-alerts/cpujan2020.html">(Acknowledgements)</a>
+* Belastingdienst Nederland (Dutch Tax and Customs Adminstration) <a href="https://lutfumertceylan.com.tr/images/belastingdienst.jpg">(Letter of Appreciation)</a>
 * Nvidia
 * Nike
 * NASA
