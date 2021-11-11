@@ -1,4 +1,4 @@
-# My web site
+# My website
 
 Here is the repo where my website is hosted 🧙
 
