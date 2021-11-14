@@ -33,7 +33,7 @@ redirect_from:
 * Erasmus University <a href="https://www.eur.nl/en/campus/security-safety/information-security/hall-fame">(Hall of Fame 2020)</a>
 * Utrecht University <a href="https://www.uu.nl/en/node/1599/hall-of-fame-responsible-disclosure">(Hall of Fame)</a>
 * University of York <a href="https://www.york.ac.uk/it-services/security/vulnerability-disclosure/">(Hall of Fame)</a>
-* Belastingdienst Nederland <a href="https://lutfumertceylan.com.tr/images/belastingdienst.jpg">(Letter of Appreciation)</a> &nbsp; <a href="https://lutfumertceylan.com.tr/images/trophy.jpg">(Honor Trophy)</a>
+* Belastingdienst Nederland <a href="https://lutfumertceylan.com.tr/images/belastingdienst.jpg">(Letter of Appreciation)</a> <a href="https://lutfumertceylan.com.tr/images/trophy.jpg">(Honor Trophy)</a>
 * Nvidia
 * Nike
 * NASA
