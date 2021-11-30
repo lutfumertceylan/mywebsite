@@ -26,18 +26,17 @@ redirect_from:
 * BMW <a href="https://www.bmwgroup.com/en/general/Security.html">(Hall of Fame 2019)</a>
 * BBC <a href="https://www.bbc.com/backstage/security-disclosure-policy/acknowledgements">(Acknowlegements 2020)</a>
 * Telecom Italia <a href="https://www.gruppotim.it/it/footer/responsible-disclosure.html">(Hall of Fame 2020)</a>
-* University of Twente <a href="https://www.utwente.nl/en/cyber-safety/responsible/hall-of-fame/">(Hall of Fame 2020)</a>
 * Cambridge University <a href="https://lutfumertceylan.com.tr/images/cambridge.jpg">(Letter of Appreciation)</a>
 * Harvard University <a href="https://lutfumertceylan.com.tr/files/harvard.jpg">(Acknowledgements Letter)</a>
 * Drexel University <a href="https://lutfumertceylan.com.tr/files/drexel.jpg">(Acknowledgements Letter)</a> <a href="https://drexel.edu/it/security/services-processes/bug-bounty/">(Hall of Fame)</a>
+* * Maastrict University <a href="https://lutfumertceylan.com.tr/files/maastricht.jpg">(Letter of Recommendation)</a>
 * Erasmus University <a href="https://www.eur.nl/en/campus/security-safety/information-security/hall-fame">(Hall of Fame 2020)</a>
 * Utrecht University <a href="https://www.uu.nl/en/node/1599/hall-of-fame-responsible-disclosure">(Hall of Fame)</a>
-* Maastrict University <a href="https://lutfumertceylan.com.tr/files/maastricht.jpg">(Letter of Recommendation)</a>
+* University of Twente <a href="https://www.utwente.nl/en/cyber-safety/responsible/hall-of-fame/">(Hall of Fame 2020)</a>
 * University of York <a href="https://www.york.ac.uk/it-services/security/vulnerability-disclosure/">(Hall of Fame)</a>
 * Belastingdienst Nederland <a href="https://lutfumertceylan.com.tr/images/belastingdienst.jpg">(Letter of Appreciation)</a> <a href="https://lutfumertceylan.com.tr/images/trophy.jpg">(Honor Trophy)</a>
 * Nvidia
 * Nike
-* NASA
 * HTC
 * Sandisk
 * MAGIX <a href="http://research.magix.com">(Hall of Fame)</a>
