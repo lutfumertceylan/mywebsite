@@ -35,6 +35,7 @@ redirect_from:
 * University of Twente <a href="https://www.utwente.nl/en/cyber-safety/responsible/hall-of-fame/">(Hall of Fame 2020)</a>
 * University of York <a href="https://www.york.ac.uk/it-services/security/vulnerability-disclosure/">(Hall of Fame)</a>
 * Belastingdienst Nederland <a href="https://lutfumertceylan.com.tr/images/belastingdienst.jpg">(Letter of Appreciation)</a> <a href="https://lutfumertceylan.com.tr/images/trophy.jpg">(Honor Trophy)</a>
+* Nederlandse Publieke Omroep <a href="https://over.npo.nl/organisatie/privacy-en-security/responsible-disclosure">(Hall of Fame)</a>
 * Nvidia
 * Nike
 * HTC
