@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Karacabey Anatolian Highschool, 2018~
+* Warsaw Management University, Preparatory School Oct 2022 ~ Present
+* Karacabey Anatolian Highschool, Sep 2018 ~ Jun 2022
 
 
 
