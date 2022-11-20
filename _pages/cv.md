@@ -50,6 +50,7 @@ Skills
 * Javascript
   * HTML
   * CSS
+  * PHP (code auduting)
 
 **OS**
 * Linux 
