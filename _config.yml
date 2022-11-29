@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lutfu Mert Ceylan"
 title_separator          : ">"
 name                     : &name "Lutfu Mert Ceylan"
-description              : &description "18 y/o Bug Hunter | Web Application Security Researcher"
+description              : &description "18 y/o Web Application Security Researcher @zerocopter | OWASP Poland Chapter | founder @trbughunters & lead of project paramatter.art. <br> lutfu.mertceylan@owasp.org"
 url                      : https://lutfumertceylan.com.tr #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : lutfumertceylan/website #"academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lutfu Mert Ceylan"
   avatar           : "pp0003.jpg"
-  bio              : "18 y/o Web Application Security ResearcherOWASP Poland Chapter | founder @trbughunters & lead of project paramatter.art. <br> lutfu.mertceylan@owasp.org"
+  bio              : "18 y/o Web Application Security Researcher @zerocopter | OWASP Poland Chapter | founder @trbughunters & lead of project paramatter.art. <br> lutfu.mertceylan@owasp.org"
   location         : "Poland"
   employer         :
   googlescholar    : #"https://yourfullgooglescholarurl.com"
