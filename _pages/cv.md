@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Warsaw Management University, Preparatory School Oct 2022 ~ Present
+* Warsaw University of Technology, Computer Science (spec. Computer Systems and Networks) BSc Oct 2023 ~ Present
+* Warsaw Management University, Preparatory School Oct 2022 ~ July 2023
 * Karacabey Anatolian Highschool, Sep 2018 ~ Jun 2022
 
 
@@ -32,8 +33,20 @@ Projects
 * May 2020 ~ : [TR Bug Hunters](https://twitter.com/trbughunters)
   - Community Founder
 
-* Apr 2021 ~ : top25-parameter - [paramatter.art](https://paramatter.art)
+* Apr 2021 ~ : top25-parameter
   - Lead of Project
+
+* May 2023 ~ : OWASP Top-25 Parameters [OWASP Top-25 Paraneters](https://owasp.org/www-project-top-25-parameters/)
+  - OWASP Project Leader
+
+Volunteering Experience
+======
+* May 2023 ~ : [OWASP Foundation](https://owasp.org)
+  - OWASP Project Leader
+
+* May 2023 ~ : [OWASP Poland Chapter](https://owasp.org/www-chapter-poland/)
+  - Board Member
+
 
 Skills
 ======
