@@ -30,9 +30,9 @@ Work experience
 Conferences & Meetings
 ======
 
-*  Oct 2023 ~ : OWASP Global AppSec Washinton D.C. (an International Cyber Security Conference)
-  - as a Speaker with my [OWASP Top-25 Paraneters](https://owasp.org/www-project-top-25-parameters/) project, Conference details: [Global AppSec DC 23](https://dc.globalappsec.org), [Speaker Page](https://owasp2023globalappsecwashin.sched.com/directory/speakers)
-
+*  Oct 2023 : OWASP Global AppSec Washinton D.C. (an International Cyber Security Conference)
+  - as a Speaker with my [OWASP Top-25 Paraneters](https://owasp.org/www-project-top-25-parameters/) project
+  - Conference details: [Global AppSec DC 23](https://dc.globalappsec.org) , [Speaker Page](https://owasp2023globalappsecwashin.sched.com/directory/speakers)
 
 Projects
 ======
