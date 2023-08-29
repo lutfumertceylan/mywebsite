@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Lutfu Mert Ceylan"
-  avatar           : "pp0003.jpg"
-  bio              : "Security Researcher @zerocopter | OWASP Poland Chapter | founder @trbughunters & lead of project paramatter.art <br> lutfu.mertceylan@owasp.org"
-  location         : "Poland"
+  avatar           : "pph.png"
+  bio              : "Security Researcher @zerocopter | OWASP Poland Chapter | founder @trbughunters & lead of project OWASP Top-25 Parameters <br> lutfu.mertceylan@owasp.org"
+  location         : "Warsaw, Poland"
   employer         :
   googlescholar    : #"https://yourfullgooglescholarurl.com"
-  email            : "lutfumertceylan@gmail.com"
+  email            : "lutfu.mertceylan@owasp.org"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
