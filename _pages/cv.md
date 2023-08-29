@@ -20,11 +20,19 @@ Education
 Work experience
 ======
 
-* July 2019 ~ : Bugcrowd
+* Jul 2019 ~ : Bugcrowd
   - Web Application Security Researcher (Bug Hunter)
 
-* December 2019 ~ : Zerocopter
+* Dec 2019 ~ : Zerocopter
   - Web Application Security Researcher (Bug Hunter)
+
+
+Conferences & Meetings
+======
+
+*  Oct 2023 ~ : OWASP Global AppSec Washinton D.C. (an International Cyber Security Conference)
+  - as a Speaker with my [OWASP Top-25 Paraneters](https://owasp.org/www-project-top-25-parameters/) project
+  - Conference details: [Global AppSec DC 23](https://dc.globalappsec.org), [Speaker Page](https://owasp2023globalappsecwashin.sched.com/directory/speakers)
 
 
 Projects
@@ -33,10 +41,10 @@ Projects
 * May 2020 ~ : [TR Bug Hunters](https://twitter.com/trbughunters)
   - Community Founder
 
-* Apr 2021 ~ : top25-parameter
+* Apr 2021 ~ : [top25-parameter](https://github.com/lutfumertceylan/top25-parameter)
   - Lead of Project
 
-* May 2023 ~ : OWASP Top-25 Parameters [OWASP Top-25 Paraneters](https://owasp.org/www-project-top-25-parameters/)
+* May 2023 ~ : [OWASP Top-25 Paraneters](https://owasp.org/www-project-top-25-parameters/)
   - OWASP Project Leader
 
 Volunteering Experience
