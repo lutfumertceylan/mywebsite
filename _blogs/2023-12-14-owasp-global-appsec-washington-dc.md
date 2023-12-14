@@ -31,6 +31,13 @@ Source on Academia.edu:
 My presentation on October 30 was a defining moment. I showcased my project, the OWASP Top 25 Parameters, which I began developing in my mid-teens and eventually transferred to OWASP in 2023, thereby stepping into the role of an OWASP Project Leader. The presentation covered the intricate details of the project, its evolution over the years, and its impact on the field. The project’s focus on the most frequently detected parameters in security vulnerabilities offers a comprehensive look at current cybersecurity challenges.
 
 ### Project Synopsis and Significance:
+
+**GitHub Repo:**
+<iframe src="https://github.com/lutfumertceylan/top25-parameter">
+
+**Official Project Page on OWASP:**
+<a href="https://owasp.org/www-project-top-25-parameters/">
+
 The OWASP Top 25 Parameters project is a testament to the importance of ongoing research in cybersecurity. By analyzing prevalent security vulnerabilities across various systems, the project identifies and categorizes key parameters, thereby offering a valuable resource for security professionals worldwide. For those interested in delving deeper, I’ve included a link to the project repository, which serves as a robust resource for researchers and enthusiasts in the field.
 
 ### Personal Experiences and Growth:
