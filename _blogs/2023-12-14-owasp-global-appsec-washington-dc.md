@@ -1,6 +1,6 @@
 ---
 title: 'EN \| My Experience as a Speaker at OWASP Global AppSec Washington D.C. 2023'
-date: 2020-12-23
+date: 2023-12-23
 permalink: /posts/owasp-global-appsec-washington-dc/
 tags:
   - owasp
@@ -10,7 +10,7 @@ tags:
   - bugbounty
   - write-up
   - speaker
-excerpt: ''
+excerpt: 'x'
 ---
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/199731183@N06" title=""><img src="https://live.staticflickr.com/65535/53396944179_26105bdce1_z.jpg" width="640" height="480" alt=""/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
