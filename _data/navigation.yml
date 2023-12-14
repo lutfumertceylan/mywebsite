@@ -4,13 +4,17 @@ main:
     url: /
         
   - title: "Write-ups"
-    url: /blog/
+    url: /write-ups/
     
+  - title: "Blog"
+    url: /blogs/
+
   - title: "Exploits"
     url: /exploits/
 
   - title: "Hall of Fame"
-    url: /bugbounty
+    url: /bugbounty/
     
   - title: "Contents/Tweets"
-    url: /contents
+    url: /contents/
+    
